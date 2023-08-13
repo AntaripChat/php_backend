@@ -6,9 +6,13 @@
     <title>Antarip</title>
 </head>
 <body>
+
     <?php
-        $a = 3;
-        echo $a + $a;
-    ?>
+    //    $a = 3;
+    //    echo $a + $a;
+    //print anything 
+    echo "Hello World";
+    ?> 
+
 </body>
 </html>
